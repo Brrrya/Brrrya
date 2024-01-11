@@ -1,8 +1,18 @@
 ```python
-print('Hello Git') 
+def main():
+	print('Hello Git')
+
+if __name__ == '__main__':
+	main()
 ```
 # Python Developer
-##
+## About me
+- I'm 22 years old
+- I'm currently learning FastAPI
+- Ready to work \:)
+
+#
+
 ### What technologies have I worked with:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
 height=50 title='Python'/> 
