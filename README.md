@@ -36,5 +36,5 @@ height=50 title='Redis'/>
 ### My pet projects:
 - [Telegram Bot (first pet project)](https://github.com/Brrrya/AioPointBot4.git)
 
-#
-![Static Badge](https://img.shields.io/badge/Telegram-blue)
+### My links
+[![Static Badge](https://img.shields.io/badge/Telegram-blue)](https://t.me/brrya1)
