@@ -5,10 +5,9 @@ def main():
 if __name__ == '__main__':
 	main()
 ```
-# Python Developer
+# Developer
 ## About me
 - I'm 22 years old
-- I'm currently learning FastAPI
 - Ready to work \:)
 
 #
