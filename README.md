@@ -31,6 +31,11 @@ height=50 title='Aiogram and aiogram-dialog'/>
 height=50 title='FastAPI'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" 
 height=50 title='Redis'/>
+<img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" 
+height=50 title='Selenium'/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" 
+height=50 title='PyTest'/>
+
 ##
 ### My pet projects:
 - [Telegram Bot (first pet project)](https://github.com/Brrrya/AioPointBot4.git)
